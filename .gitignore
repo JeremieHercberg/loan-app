@@ -1,0 +1,8 @@
+.DS_store
+Error.log
+npm_modules
+node_modules
+.editorconfig
+.env
+.cache
+dist
