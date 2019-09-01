@@ -13,3 +13,8 @@ body {
   align-items: center;
   align-content: center;
 }
+
+#loading,
+.container-result {
+  display: none;
+}
